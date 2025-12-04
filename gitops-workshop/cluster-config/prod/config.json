@@ -2,7 +2,7 @@
   "cluster_name" : "prod",
   "harness_service" : "frontend",
   "environment" : "prod",
-  "image_tag" : "amolatt62431016-8",
+  "image_tag" : "amolatt62431016-9",
   "server_address" : "https://kubernetes.default.svc",
   "username" : "amolatt62431016"
 }
